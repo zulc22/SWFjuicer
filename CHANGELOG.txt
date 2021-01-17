@@ -6,6 +6,7 @@ Legend
 
 0.2.0:
 + Now automatically saving SWFs to files.
++ Now detecting compressed SWFs (CWS, ZWS)
 
 0.1.1:
 / Reading header message from README.txt instead of from the Python file itself.
