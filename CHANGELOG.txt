@@ -4,9 +4,12 @@ Legend
 + ADDITION
 / CHANGE
 
+0.2.0:
++ Now automatically saving SWFs to files.
+
 0.1.1:
-/ Read header message from README.txt instead of from the Python file itself.
-+ Now checks for incorrect arguments.
+/ Reading header message from README.txt instead of from the Python file itself.
++ Now checking for incorrect arguments.
 / Minor grammatical changes.
 
 0.1.0:

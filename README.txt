@@ -1,5 +1,5 @@
 
-SWFjuicer 0.1.1
+SWFjuicer 0.2.0
 
 This project uses Semantic Versioning 2.0.0. (https://semver.org)
 

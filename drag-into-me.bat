@@ -1,3 +1,3 @@
 @cd /d "%~dp0"
-@py -3 SWFjuicer.py %*
+@python3 SWFjuicer.py %*
 @pause
