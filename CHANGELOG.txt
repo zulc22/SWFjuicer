@@ -1,0 +1,13 @@
+
+Legend
+- REMOVAL
++ ADDITION
+/ CHANGE
+
+0.1.1:
+/ Read header message from README.txt instead of from the Python file itself.
++ Now checks for incorrect arguments.
+/ Minor grammatical changes.
+
+0.1.0:
++ Program exists.
